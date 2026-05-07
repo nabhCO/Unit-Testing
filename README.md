@@ -14,7 +14,7 @@ Skills demonstrated through this project:
 
 The test file is run as part of the CI/CD pipeline for the project. To run tests in the terminal, enter:
 
-1. make
+1. make all
 2. ./test
 
 
